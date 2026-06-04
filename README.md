@@ -43,7 +43,7 @@ Use **Settings → Apps → Database Restore Tool → Uninstall**, or run
 
 ## Logs
 
-Each run writes a log you can open in any text editor:
+Each run writes a log you can open in any text editor: 
 
 ```
 %LOCALAPPDATA%\DatabaseRestoreTool\logs\restore_YYYYMMDD_HHMMSS.log
